@@ -41,6 +41,6 @@ int main()
 	cout << "Number of O(s): " << countO << endl;
 	cout << "Number of U(s): " << countU << endl;
 
-	system("pause()");
+	
 	return 0;
 }
